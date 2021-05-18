@@ -1,0 +1,40 @@
+{
+  "crm": [
+    {
+      "domain_api": "http://localhost:5000",
+      "version": "v1",
+      "app_id": "6052c9feddac408c545d7284",
+      "service_callback": "http://localhost:5000/api/v1/auths/sso-callback"
+    },
+    {
+      "domain_api": "http://localhost:5000",
+      "version": "v1",
+      "app_id": "6052c9feddac408c545d7284",
+      "service_callback": "http://localhost:5000/api/v1/auths/sso-callback"
+    },
+    {
+      "domain_api": "http://localhost:5000",
+      "version": "v1",
+      "app_id": "6052c9feddac408c545d7284",
+      "service_callback": "http://localhost:5000/api/v1/auths/sso-callback"
+    }
+  ],
+  "sso": [
+    {
+      "domain_api": "http://localhost:5001",
+      "version": "v1"
+    }
+  ],
+  "noti": [
+    {
+      "domain_api": "http://localhost:5003",
+      "version": "v1"
+    }
+  ],
+  "upload": [
+    {
+      "domain_api": "http://localhost:5004",
+      "version": "v1"
+    }
+  ]
+}
